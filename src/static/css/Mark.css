@@ -1,0 +1,24 @@
+.content__text {
+    margin-top: 25px;
+    margin-left: -80px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    background-color: rgba(52, 145, 208, 0.5);
+    width: 350px;
+    height: 200px;
+    border-radius: 50%;
+    opacity: 0.9;
+    font-family: 'Tiro Bangla', serif;
+    /*
+    3980b0
+    */
+}
+
+.content__text__mark {
+    text-shadow: 4px 4px 4px black;
+    font-size: 45px;
+    font-style: bold;
+}
